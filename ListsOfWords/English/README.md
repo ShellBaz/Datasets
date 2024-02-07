@@ -1,4 +1,4 @@
-# Details of the files
+# About the files in this directory
 
 ## 69903words
 A list containing 69903 words.
